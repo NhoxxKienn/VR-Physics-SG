@@ -1,7 +1,7 @@
-# Chasing-Love
+## VR Physics Experiment Serious Game
  A Project for The Bachelor's Thesis at Technische Universität Darmstadt from Serious Game Group.
  
- *Description*: You are an Electrical Trainee, who is training for your electrical work. You will have to navigate through multiple challenges and electrical concepts to receive your certificate of work.
+ *Description*: You are an Electrical Trainee who is training for your electrical work. You will have to navigate through multiple challenges and electrical concepts to receive your certificate of work.
  
 *Mechanics*: Using the VR Headset and Controllers to interact and complete tasks in the virtual laboratory.
 
